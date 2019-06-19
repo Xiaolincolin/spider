@@ -1,4 +1,4 @@
-    from  selenium import webdriver
+from  selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 #这个是一个用来控制chrome以无界面模式打开的浏览器
